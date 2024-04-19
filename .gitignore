@@ -1,3 +1,4 @@
 env
 AutogluonModels
+wandb
 .ipynb_checkpoints

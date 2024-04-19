@@ -39,6 +39,7 @@ _wandb:
       6: 4.40.0
       8:
       - 1
+      - 4
       - 5
       9:
         1: transformers_trainer

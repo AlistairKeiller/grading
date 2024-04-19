@@ -70,3 +70,18 @@
 2024-04-18 20:34:31,873 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: internal_messages
 2024-04-18 20:34:31,873 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: stop_status
 2024-04-18 20:34:31,874 DEBUG   SenderThread:871 [sender.py:send_request():406] send_request: stop_status
+2024-04-18 20:34:35,011 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:34:35,825 INFO    Thread-12 :871 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/alistairkeiller/grading/wandb/run-20240418_203331-8oy02zz6/files/config.yaml
+2024-04-18 20:34:40,159 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:34:45,184 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:34:46,876 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-18 20:34:46,876 DEBUG   SenderThread:871 [sender.py:send_request():406] send_request: stop_status
+2024-04-18 20:34:46,878 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-18 20:34:51,033 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:34:56,055 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:35:01,081 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
+2024-04-18 20:35:01,780 DEBUG   SenderThread:871 [sender.py:send():379] send: stats
+2024-04-18 20:35:01,880 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-18 20:35:01,881 DEBUG   SenderThread:871 [sender.py:send_request():406] send_request: stop_status
+2024-04-18 20:35:01,882 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-18 20:35:07,049 DEBUG   HandlerThread:871 [handler.py:handle_request():146] handle_request: status_report
